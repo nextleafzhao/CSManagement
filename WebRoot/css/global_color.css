@@ -1,0 +1,21 @@
+
+
+/* 正文：分页功能区 */
+#pages a
+{
+    color: #000;
+}
+#pages a:hover
+{
+    background: #cddde4;
+    border: #97b9c9 solid 1px;
+    color: #067db5;
+}
+#pages a.current_page
+{
+    background: #FFF;
+    border: #89bdd8 solid 1px;
+    color: #067db5;
+}
+
+
